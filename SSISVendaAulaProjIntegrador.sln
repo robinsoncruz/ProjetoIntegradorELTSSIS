@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISVendaAulaProjIntegrador", "SSISVendaAulaProjIntegrador\SSISVendaAulaProjIntegrador.dtproj", "{08839543-2630-42B8-A1BD-309B76150141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08839543-2630-42B8-A1BD-309B76150141}.Development|Default.ActiveCfg = Development
+		{08839543-2630-42B8-A1BD-309B76150141}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285C03D3-1828-4492-B094-4138703AB1ED}
+	EndGlobalSection
+EndGlobal
